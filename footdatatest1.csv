@@ -461,8 +461,8 @@ Food_Code,Food_Name,Description,Group,Protein,Fat,Carbohydrate,Energy,Total_suga
 15-704,"Bubble and squeak, fried in rapeseed oil, homemade","Fried cabbage and potato. Recipe from Wiles et al, 1980",DR,1.7,9,10.1,126,1.6
 15-703,"Bubble and squeak, fried in sunflower oil, homemade","Fried cabbage and potato. Recipe from Wiles et al, 1980",DR,1.7,9.1,10.2,128,1.6
 11-006,"Buckwheat, groats",Literature sources,AA,8.1,1.5,84.9,364,0.4
-17-823,"Build up, powder, shake, assorted flavours","Manufacturer's data (Nestlé). Average of chocolate, strawberry, banana and vanilla flavours",PAA,20.5,0.7,63,325,62
-17-728,"Build-up powder, soup, assorted flavours","Manufacturer's data (Nestlé). Average of chicken, vegetable, tomato and potato & leek flavours",PAA,14.4,14.9,57.3,407,14.3
+17-823,"Build up, powder, shake, assorted flavours","Manufacturer's data (NestlÃ©). Average of chocolate, strawberry, banana and vanilla flavours",PAA,20.5,0.7,63,325,62
+17-728,"Build-up powder, soup, assorted flavours","Manufacturer's data (NestlÃ©). Average of chicken, vegetable, tomato and potato & leek flavours",PAA,14.4,14.9,57.3,407,14.3
 19-651,"Burger, beef, 62-85% beef, raw","10 samples, 6 brands containing onion, frozen and chilled",MBG,15.9,15.2,4.9,219,2.7
 19-546,"Burger, beef, 62-85%, beef, grilled","Beefburgers with added onion. 10 samples, 6 brands, frozen and chilled",MBG,18.3,13.8,8.5,229,2.1
 19-490,"Burger, beef, 98-99% beef, fried in vegetable oil","8 samples, 3 brands, chilled and frozen",MBG,28.5,23.9,0.1,329,0.1
@@ -752,7 +752,7 @@ Food_Code,Food_Name,Description,Group,Protein,Fat,Carbohydrate,Energy,Total_suga
 17-687,Chocolate nut spread,"8 samples, 5 brands",SC,6.2,33,60.5,549,59.7
 12-518,Chocolate nut sundae,Recipe,BP,2.6,15,33.5,271,29.9
 17-659,Chocolate spread,"7 samples, 5 brands",SC,3.3,37.7,59.4,575,59.4
-17-650,"Chocolate, dark, with crème or mint fondant centres","10 samples, 8 products, including After Eights and equivalent (or 'similar') products",SEA,3.7,16.3,71.9,431,62.9
+17-650,"Chocolate, dark, with crÃ¨me or mint fondant centres","10 samples, 8 products, including After Eights and equivalent (or 'similar') products",SEA,3.7,16.3,71.9,431,62.9
 17-690,"Chocolate, fancy and filled",10 samples of different brands,SEA,4.9,21.3,62.9,447,60
 17-648,"Chocolate, milk","11 samples, 11 products",SEA,7.3,31.1,56,519,56
 17-491,"Chocolate, plain","6 bars, 3 brands; 36-50% cocoa solids",SEA,5,28,63.5,510,62.6
@@ -885,7 +885,7 @@ Food_Code,Food_Name,Description,Group,Protein,Fat,Carbohydrate,Energy,Total_suga
 12-332,"Cream, fresh, single",Average of 22 samples of summer and winter cream,BJC,3.3,19.1,2.2,193,2.2
 12-333,"Cream, fresh, whipping",Average of 22 samples of summer and winter cream,BJC,2,40.3,2.7,381,2.7
 12-112,"Cream, half, fresh","10 samples, 5 brands",BJC,3,13.3,4.3,148,4.3
-12-571,"Crème caramel, homemade",Recipe,BR,5.1,3.3,28.7,157,28.7
+12-571,"CrÃ¨me caramel, homemade",Recipe,BR,5.1,3.3,28.7,157,28.7
 12-397,"Creme caramel, retail","9 samples, 4 brands",BR,3,1.6,20.6,104,18
 17-763,Creme egg,10 samples,SEA,4,15.9,71,425,58
 12-335,"Creme fraiche, full fat","9 samples, 6 brands, plain",BJC,2.2,40,2.4,378,2.1
@@ -1816,7 +1816,7 @@ Food_Code,Food_Name,Description,Group,Protein,Fat,Carbohydrate,Energy,Total_suga
 13-501,"Onions, fried in sunflower oil","Calculated from raw, fried for 5-10 minutes. Nitrogen, fat and water analysed, 2011",DG,1.2,5.3,11.2,95,8.6
 13-309,"Onions, pickled, drained","10 samples, 7 brands",DG,0.9,0.2,4.9,24,3.5
 13-499,"Onions, raw","22 samples, autumn and winter, UK grown and imported, pre-packed and loose",DG,1,0.1,8,35,6.2
-14-330,"Orange juice, ambient, UHT","11 samples, 9 brands, including ‘smooth’ and ‘with bits’",FC,0.6,Tr,8.5,34,8.5
+14-330,"Orange juice, ambient, UHT","11 samples, 9 brands, including Â‘smoothÂ’ and Â‘with bitsÂ’",FC,0.6,Tr,8.5,34,8.5
 14-329,"Orange juice, chilled","10 samples, 8  brand, premium and from concentrate including 'smooth' and 'with bits'",FC,0.9,Tr,8.6,36,8.6
 14-369,"Orange juice, freshly squeezed",Strained juice from fresh oranges,FC,0.6,Tr,8.1,33,8.1
 14-370,"Orange juice, freshly squeezed, weighed as whole fruit",Calculated from 14-281,FC,0.3,Tr,3.7,15,3.7
@@ -2277,7 +2277,7 @@ Food_Code,Food_Name,Description,Group,Protein,Fat,Carbohydrate,Energy,Total_suga
 14-842,Pumpkin seeds,Analysis and literature sources,GA,24.4,45.6,15.2,565,1.1
 13-549,"Pumpkin, flesh only, boiled in unsalted water","Peeled thickly, seeds removed, boiled for 15 minutes, based on boiled in salted water",DG,0.6,0.3,1.9,12,1.8
 13-326,"Pumpkin, flesh only, raw","Peeled thickly, seeds removed",DG,0.7,0.2,2.2,13,1.7
-11-911,"Puri, homemade","9 samples; 6 homemade, 3 café. Deep fried chapati",AF,7.2,22.3,36.5,366,1.2
+11-911,"Puri, homemade","9 samples; 6 homemade, 3 cafÃ©. Deep fried chapati",AF,7.2,22.3,36.5,366,1.2
 12-948,"Quiche, cheese and egg, homemade",Recipe. Ref. Wiles et al. (1980),CD,12.5,22.3,14.6,305,1.6
 11-995,"Quiche, cheese and egg, wholemeal, homemade",Recipe,CD,13,20.4,15.6,294,1.6
 12-952,"Quiche, Lorraine, homemade",Recipe,CD,15.3,26,16.8,358,2.2
